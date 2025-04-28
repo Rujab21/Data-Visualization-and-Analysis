@@ -12,3 +12,4 @@ Designed visualizations (tables, charts, KPIs) for data-driven decision-making. 
 -Microsoft SQL Server
 -Microsoft Power BI 
 -Data Visualization
+![image](https://github.com/user-attachments/assets/12fa83ec-3cbc-4b99-b29b-7253ceed083d)
