@@ -13,3 +13,4 @@ Tracked key metrics: average age 37, salary $6.5K, and tenure patterns. Enabled 
 -ETL Pipeline
 -Microsoft Power BI Data Visualization
 -Microsoft Excel
+![image](https://github.com/user-attachments/assets/43f293ac-a3ba-43c7-8641-9aebe9a29c48)
