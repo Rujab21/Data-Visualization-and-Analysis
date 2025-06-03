@@ -20,3 +20,4 @@ Most Used Payment Method using conditional logic with IF, Logical operators,Summ
 and so many other measures 
 
 Created interactive visuals with time-based filters, dynamic KPIs, and insights for decision-makers.
+![image](https://github.com/user-attachments/assets/8e3b13ff-62e2-479e-9494-239d9f6a598a)
